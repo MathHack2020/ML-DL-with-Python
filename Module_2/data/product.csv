@@ -1,0 +1,6 @@
+,price,in_stock,rating,product_blue pants,product_red shirt,product_white dress,product_white tuxedo
+0,93.93666666666667,1,0,True,False,False,False
+1,49.33,1,1,False,True,False,False
+3,32.49,1,0,False,True,False,False
+4,199.99,0,2,False,False,True,False
+5,93.93666666666667,0,2,False,False,False,True
