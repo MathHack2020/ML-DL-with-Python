@@ -1,0 +1,1 @@
+Age,GarageArea,TotalSF,MasVnrArea,WoodDeckSF,BsmtFinSF1,2ndFlrSF,BsmtFinSF2,MiscVal,LotArea,SalePrice
