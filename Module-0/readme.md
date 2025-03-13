@@ -1,0 +1,24 @@
+- 1_LoadData.ipynb
+- 2_FeatureEngineering.ipynb
+- 3_Numerical_FeaturesCorrelation.ipynb
+- 4_DataPlot.ipynb
+- 5-Outliers.ipynb
+
+-  10_NumDataProcesing.ipynb
+- 11_Regularization.ipynb
+- 12_Ridge.ipynb
+- 13_Data_Split.ipynb
+- 13_Lasso.ipynb
+- 14_DatsSet_Encoding_1.ipynb
+- 15_DataSet_Encoding_2.ipynb
+- 16_Categorical_features_engineering.ipynb
+- 17_features_imputations.ipynb
+- 18_Features_Selection.ipynb
+- 19_Dataset_consolidation.ipynb
+- 19_bis_Dataset_concatination.ipynb
+
+- Exercice_1-oneHotEncoding_1.ipynb
+- ML_python_intro.ipynb
+- OneHotEncoder copy.ipynb
+- data_mapping.ipynb
+- student-academic-performance-analysis.ipynb
