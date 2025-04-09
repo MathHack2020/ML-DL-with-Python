@@ -1257,7 +1257,7 @@ S2254,Ahmed,Williams,student1254@university.com,Female,21,CS,84.52,80.66,85.13,,
 S2255,Sara,Jones,student1255@university.com,Male,24,CS,57.27,51.23,88.64,75.84,80.74,3.94,54.74,53.54,D,22.0,No,Yes,High School,High,2,5.8
 S2256,Emma,Williams,student1256@university.com,Female,20,Business,79.56,80.82,46.67,50.36,82.88,9.67,61.48,85.27,C,13.0,No,Yes,High School,High,8,5.8
 S2257,John,Brown,student1257@university.com,Female,18,Business,94.61,63.65,42.46,96.12,87.54,6.98,82.35,56.79,A,14.0,No,Yes,Bachelor's,High,6,7.0
-S2258,Liam,Jones,student1258@university.com,Male,24,CS,85.0,87.73,60.04,53.3,83.41,7.07,64.15,54.47,F,21.2,No,Yes,PhD,Low,9,6.8
+S2258,Liam,Jones,student1258@university.com,Male,24,CS,85.0,87.73,60.04,53.3,83.41,7.07,64.15,54.47,F,0.0,No,Yes,PhD,Low,9,6.8
 S2259,John,Williams,student1259@university.com,Male,19,CS,57.43,42.21,77.56,96.93,87.29,4.53,76.64,69.93,D,15.0,No,Yes,PhD,Low,5,7.4
 S2260,Omar,Brown,student1260@university.com,Female,18,Business,,80.08,87.61,,83.73,8.11,56.23,53.87,C,10.6,No,Yes,Master's,Low,4,4.9
 S2261,John,Smith,student1261@university.com,Male,20,CS,65.08,78.99,72.76,,74.02,9.08,60.12,91.46,F,9.4,Yes,Yes,,Low,2,8.4
